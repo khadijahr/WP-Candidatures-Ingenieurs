@@ -2,23 +2,24 @@
 
 ## Description
 
-Le plugin **WP Candidatures Ingénieurs** est un système de formulaire de candidature multi-étapes conçu spécifiquement pour les écoles d'ingénieurs. Il permet aux candidats de soumettre leurs informations de manière structurée.
+Le plugin **WP Candidatures Ingénieurs** est une solution WordPress conçue pour simplifier la gestion des candidatures d'ingénieurs au sein des écoles d'ingénieurs, universités et établissements d'enseignement supérieur. Ce formulaire de candidature multi-étapes intuitif permet de gérer efficacement les candidatures en ligne, facilitant le processus de soumission pour les aspirants ingénieurs et rationalisant le traitement des dossiers de candidature pour les administrateurs. Il collecte les informations clés, de la formation initiale aux expériences professionnelles, offrant un outil idéal pour une gestion centralisée et un suivi précis des admissions d'ingénieurs.
 
 ---
 
-## Fonctionnalités
+## Fonctionnalités Clés du Plugin
 
-* **Formulaire de candidature multi-étapes :** Guide les candidats à travers un processus de soumission clair et organisé.
-* **Stockage en base de données :** Toutes les candidatures soumises sont sauvegardées dans la base de données WordPress et accessibles depuis le back-office.
-* **Notification administrateur :** Un e-mail détaillé est envoyé à l'administrateur avec les données de la candidature après chaque soumission réussie.
-* **Interface d'administration :** Permet de visualiser et de gérer les candidatures directement depuis le tableau de bord WordPress.
+* **Formulaire de candidature multi-étapes intuitif :** Guide les candidats à travers un processus de soumission clair, organisé et facile à suivre, améliorant l'expérience utilisateur. Idéal pour les dossiers de candidature complexes.
+* **Stockage sécurisé en base de données :** Toutes les candidatures soumises sont sauvegardées de manière sécurisée dans la base de données de votre site WordPress, garantissant un accès facile et une gestion centralisée depuis le back-office.
+* **Notification administrateur automatisée :** Un e-mail détaillé est envoyé instantanément à l'administrateur avec l'ensemble des données de la candidature après chaque soumission réussie, assurant un suivi des candidatures en temps réel.
+* **Interface d'administration dédiée :** Visualisez, gérez et exportez toutes les candidatures d'ingénieurs directement depuis votre tableau de bord WordPress, offrant un contrôle total sur le processus d'admission.
+
 
 ---
 
 ## Installation
 
-1.  **Télécharger le plugin :** Téléchargez le fichier ZIP du plugin.
-2.  **Uploader via WordPress :**
+1.  **Télécharger le plugin WP Candidatures Ingénieurs :** Obtenez le fichier ZIP du plugin.
+2.  **Uploader via votre tableau de bord WordPress :**
     * Connectez-vous à votre tableau de bord WordPress.
     * Allez dans `Plugins > Ajouter un nouveau`.
     * Cliquez sur `Uploader un plugin`.
@@ -29,21 +30,21 @@ Le plugin **WP Candidatures Ingénieurs** est un système de formulaire de candi
 
 ## Utilisation
 
-Après l'activation, un nouveau menu devrait apparaître dans votre tableau de bord WordPress pour gérer les candidatures.
+Après l'activation, un nouveau menu intitulé "Candidatures Ingénieurs" (ou similaire) apparaîtra dans votre tableau de bord WordPress pour gérer et consulter les candidatures.
 
-Pour intégrer le formulaire sur une page ou un article, utilisez le shortcode suivant :
+Pour intégrer le formulaire de candidature d'ingénieurs sur n'importe quelle page ou article de votre site, utilisez le shortcode suivant :
 
 `[ingenieurs_candidature]`
 
 ---
 
 
-## Support
+## Support et Assistance
 
-Si vous rencontrez des problèmes ou avez des questions, veuillez ouvrir une "issue" sur ce dépôt GitHub.
+Si vous rencontrez des problèmes, avez des questions ou souhaitez proposer des améliorations pour le plugin WP Candidatures Ingénieurs, veuillez ouvrir une "issue" sur le dépôt GitHub officiel. Nous nous engageons à vous fournir le meilleur support possible.
 
 ---
 
 ## Licence
 
-Ce plugin est distribué sous la licence GPLv3.
+Ce plugin WordPress est distribué sous la licence GPLv3, garantissant sa liberté d'utilisation, de modification et de distribution.
