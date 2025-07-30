@@ -4,6 +4,7 @@
 
 Le plugin **WP Candidatures Ingénieurs** est une solution WordPress conçue pour simplifier la gestion des candidatures d'ingénieurs au sein des écoles d'ingénieurs, universités et établissements d'enseignement supérieur. Ce formulaire de candidature multi-étapes intuitif permet de gérer efficacement les candidatures en ligne, facilitant le processus de soumission pour les aspirants ingénieurs et rationalisant le traitement des dossiers de candidature pour les administrateurs. Il collecte les informations clés, de la formation initiale aux expériences professionnelles, offrant un outil idéal pour une gestion centralisée et un suivi précis des admissions d'ingénieurs.
 
+[![Titre de la vidéo](https://drive.google.com/file/d/1z2zDcKYnjt-TXTls53oNgMHZC1Q5s-7f/view?usp=drive_link)
 ---
 
 ## Fonctionnalités Clés du Plugin
